@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<configuration>
+    <abnoconfig address="localhost" port="8085"/>
+    <pceconfig address="localhost" port="8082"/>
+    <pmconfig address="localhost" port="8083"/>
+</configuration>
