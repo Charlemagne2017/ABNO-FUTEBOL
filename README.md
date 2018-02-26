@@ -6,5 +6,5 @@ The ABNO controller runs the workflows and can interwork with the different bloc
 
 ## Open Source Licence
 Apache 2.0
-
+https://www.apache.org/licenses/LICENSE-2.0
 ![ABNO Structure](ABNO_Structure.png)
